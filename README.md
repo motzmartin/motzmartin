@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **motzmartin/motzmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Je m'appelle Martin MOTZ et je suis étudiant à l'IUT Réseaux et Télécommunications de Mont-de-Marsan.<br>
+Cela fait 5 années que je pratique la programmation en autodidacte, années dans lesquelles j'ai pu réaliser divers projets.<br>
+Vous en trouverez une petite partie sur mon GitHub.
